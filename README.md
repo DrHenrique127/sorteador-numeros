@@ -1,6 +1,6 @@
 # Sorteador de Números
 
-Olá! Neste módulo, embarquei em uma jornada prática de lógica de programação, aplicando conceitos fundamentais em projetos reais para consolidar o que aprendi até agora.
+Embarquei em uma jornada prática de lógica de programação, aplicando conceitos fundamentais em projetos reais para consolidar o que aprendi até agora.
 
 Neste projeto, revisitei conceitos como variáveis, condicionais e estruturas de repetição e coloquei esses conhecimentos em prática.
 
